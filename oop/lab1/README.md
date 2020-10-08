@@ -1,5 +1,5 @@
 # Отчет о лабораторных работах
-# студент группы [ИДБ-15-ХХ](https://github.com/stankin/design-2018/wiki/list-idb-15-xx) Фамилия И.О.
+# студент группы [ИДБ-15-ХХ](https://github.com/stankin/design-part-1/wiki/list-idb-17-06) Фамилия И.О.
 
 ## Лабораторная 1
 
